@@ -1,7 +1,7 @@
 def main():
     #write your code below this line
-    inputString = input("Write your name...")
-    print (inputString)
+    message = input("Write a message...")
+    print (message)
 
 
 if __name__ == '__main__':
