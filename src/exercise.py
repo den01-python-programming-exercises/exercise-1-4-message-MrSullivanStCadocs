@@ -2,7 +2,7 @@ def main():
     #write your code below this line
     print("Welcome, what is your name?")
     inputString = input("Write your name...")
-    print ("Welcome " + inputString)
+    print (inputString)
 
 
 if __name__ == '__main__':
